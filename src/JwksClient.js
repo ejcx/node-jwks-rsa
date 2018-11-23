@@ -1,5 +1,5 @@
 import debug from 'debug';
-import request from 'request';
+import request from 'request-browser';
 
 import ArgumentError from './errors/ArgumentError';
 import JwksError from './errors/JwksError';
